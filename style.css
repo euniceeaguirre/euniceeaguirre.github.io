@@ -1,0 +1,35 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+header{
+    background-color:#131842;
+}
+header span {
+    color: beige;
+}
+.nav-item a{
+    color: beige;
+}
+
+/*Link visitado*/
+.nav-item a:visited{
+    color: beige;
+}
+
+.nav-item a:hover{
+    color:#B3A398
+}
+#nav-butoon{
+    background-color:#A67B5B ;
+}
+.bi{
+    color:#131842 ;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url(/assets/Captura\ de\ pantalla\ 2024-07-25\ 205316.png) ;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}
