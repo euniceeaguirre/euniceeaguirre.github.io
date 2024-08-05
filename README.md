@@ -3,11 +3,11 @@
 ## Proyecto responsivo realizado con Bootstrap5 
 
 Proyecto creado durante el Bootcamp de TecnolochicasPRO, es adaptable a distintos dispositivos o tamaños de pantallla.
-El roposito de esta pagina web es mostrar mi portafolio de proyetcos como desarrolladora web.
+El roposito de esta pagina web es mostrar mi portafolio de proyetcos como desarrolladora web.💜 
 
-Podras encontralo aqui (Portafolio) https://euniceeaguirre.github.io/
+Podras encontralo aqui [Portafolio] (https://euniceeaguirre.github.io/)
 
-### Tecnologias
+### Tecnologías
 
 * HTML 
 * CSS
@@ -16,10 +16,10 @@ Podras encontralo aqui (Portafolio) https://euniceeaguirre.github.io/
 
 ### El proyecto cuenta con las siguientes secciones:
 
-*Sobre mi
-*Habilidades
-*Proyectos
-*Contacto
+* Sobre mi
+* Habilidades
+* Proyectos
+* Contacto
 
-### Cptura del proyecto
-
+### Captura del proyecto
+![Captura del proyecto](/assets/captura%20del%20portafolio.png)
