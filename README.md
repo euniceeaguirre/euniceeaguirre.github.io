@@ -5,7 +5,7 @@
 Proyecto creado durante el Bootcamp de TecnolochicasPRO, es adaptable a distintos dispositivos o tamaños de pantallla.
 El roposito de esta pagina web es mostrar mi portafolio de proyetcos como desarrolladora web.💜 
 
-Podras encontralo aqui [Portafolio] (https://github.com/euniceeaguirre/euniceeaguirre.github.io.git)
+Podras encontralo aqui [Portafolio] (https://euniceeaguirre.github.io/)
 
 ### Tecnologías
 
