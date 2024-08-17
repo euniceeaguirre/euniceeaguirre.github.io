@@ -1,17 +1,35 @@
 *{
     font-family: "Playfair Display", serif;
 }
+
+
+
+
+
+
 header{
     background-color:#131842;
 }
 header span {
     color: beige;
 }
+
+
+
+
+#nav-butoon:hover{
+    transform: scale(1.1);
+}
+
+
 .nav-item a{
     color: beige;
 }
 
 /*Link visitado*/
+
+
+
 .nav-item a:visited{
     color: beige;
 }
@@ -19,9 +37,15 @@ header span {
 .nav-item a:hover{
     color:#B3A398
 }
+
 #nav-butoon{
-    background-color:#A67B5B ;
+    background-color:#9f9893 ;
+    
 }
+
+
+
+
 .icono-habilidades{
     color:#131842 ;
     font-size: 2em;
@@ -34,15 +58,15 @@ header span {
     opacity: 0.6;
 }
 footer{
-    background-color: #D1BB9E;
+    background-color: #857f7b;
 }
 footer .icon-footer i{
 
-    color: #686D76;
+    color: #e1e4ea;
     font-size: 2rem;
 }
 footer p{
-    color:#686D76
+    color:#e9eaed
     
 }
 #app{
